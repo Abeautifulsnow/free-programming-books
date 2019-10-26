@@ -73,7 +73,7 @@
 * [Linear Digressions](http://www.lineardigressions.com) (podcast)
 * [O'Reilly Data Show Podcast](https://www.oreilly.com/topics/oreilly-data-show-podcast) (podcast)
 * [Partially Derivative](http://partiallyderivative.com) (podcast)
-* [Super Data Science](https://www.superdatascience.com/podcast/) (podcast) 
+* [Super Data Science](https://www.superdatascience.com/podcast/) (podcast)
 * [Talking Machines](http://www.thetalkingmachines.com) (podcast)
 
 
@@ -148,7 +148,6 @@
 
 #### Angular.js
 
-* [Adventures in Angular - DevChat.tv](https://devchat.tv/adventures-in-angular/) (podcast)
 * [Angular Air](https://angularair.com) (podcast)
 
 
@@ -165,6 +164,7 @@
 #### Node.js
 
 * [Nodeup](http://nodeup.com) (podcast)
+* [Twitter Bot Tutorial - Node.js and Processing](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6atTSxoRiVnSuOn6JHnq2yV) (screencast)
 
 
 #### p5.js
@@ -202,7 +202,7 @@
 * [Developer Tea](https://developertea.com) (podcast)
 * [DevelopersHangout](http://www.developershangout.io) (podcast)
 * [FLOSS WEEKLY](https://twit.tv/shows/floss-weekly) (podcast)
-* [Frontside the Podcast](https://frontsidethepodcast.simplecast.fm) (podcast)
+* [Frontside the Podcast](https://frontside.io/podcast/) (podcast)
 * [Full Stack Radio](http://www.fullstackradio.com) (podcast)
 * [Functional Geekery](https://www.functionalgeekery.com) (podcast)
 * [Garbage](http://garbage.fm) (podcast)
@@ -278,7 +278,6 @@
 
 * [5by5 - Ruby on Rails Podcast](http://5by5.tv/rubyonrails) (podcast)
 * [Drifting Ruby](https://www.driftingruby.com) (screencast)
-* [ENVY LABS - Ruby5](https://ruby5.codeschool.com) (podcast)
 * [Railscasts](http://railscasts.com) (screencast)
 * [Ruby Rogues](https://devchat.tv/ruby-rogues/) (podcast)
 * [Ruby Tapas | Free Screencasts](http://www.rubytapas.com/episodes?filter=free) (screencast)
