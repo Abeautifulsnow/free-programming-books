@@ -12,10 +12,11 @@
 
 ### Other
 
-* [Koodaustunti](http://koodaustunti.fi/miten-aloitan-koodaamaan/) - Opi koodaamaan verkossa
+* [Elements of AI](https://www.elementsofai.com/fi/) - Tekoälykurssi
+* [Koodiaapinen](https://koodiaapinen.fi) - Opettajille suunnattu sivusto ohjelmoinnin maailmaan.
 * [Mooc](https://mooc.fi) - Laadukkaita, avoimia ja ilmaisia verkkokursseja kaikille
 
 
 ### Python
 
-* [Helsingin yliopiston Python-ohjelmointikurssi](https://linkki.github.io/python2017/) - Ilmainen verkkokurssi
+* [Helsingin yliopiston Python-ohjelmointikurssi](https://linkki.github.io/python2017) - Ilmainen verkkokurssi

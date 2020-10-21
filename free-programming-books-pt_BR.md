@@ -1,10 +1,14 @@
 ﻿### Índice
 
+* [Agnósticos](#agnosticos)
+  * [Sistemas Operacionais](#sistemas-operacionais)
 * [Android](#android)
 * [C](#c)
 * [C#](#c-sharp)
 * [C++](#c-1)
+* [Docker](#docker)
 * [Engenharia de software](#engenharia-de-software)
+  * [Arquitetura de Software](#arquitetura-de-software)
   * [Metodologias de Desenvolvimento de Software](#metodologias-de-desenvolvimento-de-software)
   * [Outros](#outros)
 * [Git](#git)
@@ -26,16 +30,26 @@
   * [Node.js](#nodejs)
   * [React](#react)
   * [Vue.js](#vuejs)
+* [Kubernetes](#kubernetes)
 * [LaTeX](#latex)
 * [LISP](#lisp)
 * [Lua](#lua)
 * [PHP](#php)
+  * [Symfony](#symfony)
 * [Python](#python)
   * [Django](#django)
 * [RegEx](#regex)
 * [Ruby](#ruby)
 * [Shell Script](#shell)
 * [Vim](#vim)
+
+
+### Agnósticos
+
+#### Sistemas Operacionais
+
+* [Guia Foca Linux](https://www.guiafoca.org/#download) - Gleydson Maziolli (PDF) 
+* [Sistemas Operacionais: Conceitos e Mecanismos](http://wiki.inf.ufpr.br/maziero/lib/exe/fetch.php?media=socm:socm-livro.pdf) - Carlos A. Maziero (PDF) (:construction: *em contínuo desenvolvimento*)
 
 
 ### Android
@@ -65,6 +79,11 @@
 * [Programação Orientada a Objetos em C++](http://webserver2.tecgraf.puc-rio.br/~manuel/Download/Programacao%20Orientada%20a%20Objetos%20em%20C++.pdf) (PDF)
 
 
+### Docker
+
+* [Docker para desenvolvedores](https://leanpub.com/dockerparadesenvolvedores) - Rafael Gomes *(necessário conta no Leanpub ou e-mail válido)*
+
+
 ### Engenharia de Software
 
 #### Metodologias de Desenvolvimento de Software
@@ -72,6 +91,13 @@
 * [Kanban e Scrum - obtendo o melhor de ambos](http://www.infoq.com/br/minibooks/kanban-scrum-minibook) *(account required)*
 * [Kanban em 10 Passos](http://www.infoq.com/br/minibooks/priming-kanban-jesper-boeg) *(account required)*
 * [Scrum e XP direto das Trincheiras](http://www.infoq.com/br/minibooks/scrum-xp-from-the-trenches) *(account required)*
+
+
+#### Arquitetura de Software
+
+ * [ASP.NET Core architecture](https://docs.microsoft.com/pt-br/dotnet/architecture/modern-web-apps-azure/) (PDF)   
+ * [Microservices architecture](https://docs.microsoft.com/pt-br/dotnet/architecture/microservices/) (PDF)    
+ * [Modernizing existing .NET apps](https://docs.microsoft.com/pt-br/dotnet/architecture/modernize-with-azure-containers/) (PDF)  
 
 
 #### Outros
@@ -119,11 +145,17 @@
 
 ### JavaScript
 
-* [Eloquente Javascript](https://github.com/braziljs/eloquente-javascript)
+* [Eloquente JavaScript](https://github.com/braziljs/eloquente-javascript)
 * [EXPERT JS Stack](http://stack.desenvolvedor.expert)
 * [Guia JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Guide)
 * [Guia Rápido de Desenvolvimento para Firefox OS](https://leanpub.com/guiarapidofirefoxos)
 * [JS: A forma certa](http://jstherightway.org/pt-br/)
+* [You Don't Know JS: Async & Performance](https://github.com/cezaraugusto/You-Dont-Know-JS/blob/portuguese-translation/async%20&%20performance/README.md)
+* [You Don't Know JS: ES6 & Além](https://github.com/cezaraugusto/You-Dont-Know-JS/blob/portuguese-translation/es6%20&%20beyond/README.md)
+* [You Don't Know JS: Escopos & Closures](https://github.com/cezaraugusto/You-Dont-Know-JS/blob/portuguese-translation/scope%20&%20closures/README.md)
+* [You Don't Know JS: Iniciando](https://github.com/cezaraugusto/You-Dont-Know-JS/blob/portuguese-translation/up%20&%20going/README.md)
+* [You Don't Know JS: this & Prototipagem de Objetos](https://github.com/cezaraugusto/You-Dont-Know-JS/blob/portuguese-translation/this%20&%20object%20prototypes/README.md)
+* [You Don't Know JS: Tipos & Gramática](https://github.com/cezaraugusto/You-Dont-Know-JS/blob/portuguese-translation/types%20&%20grammar/README.md)
 
 
 #### Angular
@@ -184,8 +216,8 @@
 
 #### Node.js
 
+* [Construindo APIs testáveis com Node.js](https://leanpub.com/construindo-apis-testaveis-com-nodejs/) - Waldemar Neto *(necessário conta no Leanpub ou e-mail válido)*
 * [Node.js para Leigos](http://udgwebdev.com/nodejs/)
-* [Primeiros passos com Node.js](http://tableless.com.br/o-que-nodejs-primeiros-passos-com-node-js/)
 * [Raspagem de dados com Node.js](http://tableless.com.br/raspagem-de-dados-com-node-js/)
 
 
@@ -200,13 +232,20 @@
 * [Adicionar Bootstrap e Font-awesome no projeto criado com o Vue Cli](https://web.archive.org/web/20180613054310/http://www.vedovelli.com.br/frontend/adicionar-bootstrap-e-font-awesome-no-projeto-criado-com-o-vue-cli/)
 * [Documentação pt-BR](https://br.vuejs.org/v2/guide/)
 * [Vue.js Brasil - Artigos em Português sobre Vue.js](http://www.vuejs-brasil.com.br)
+* [Vue.js na prática](https://leanpub.com/livro-vue) - Daniel Schmitz and Daniel Pedrinha Georgii (Necessário criar uma conta (gratuita) no Leanpub para baixar o livro completo nos formatos PDF, EPUB, MOBI ou pelo próprio site)
 * [VueJS: Filtro para criar URL’s amigáveis](http://web.archive.org/web/20160331162636/http://carlosgartner.com.br/vuejs-filtro-para-criar-urls-amigaveis/)
+
+
+### Kubernetes
+
+* [Introdução ao Kubernetes no Azure](https://docs.microsoft.com/pt-br/learn/paths/intro-to-kubernetes-on-azure/)
 
 
 ### LaTeX
 
 * [Breve Introdução ao LaTeX2e](http://www.if.ufrj.br/~sandra/MetComp/doc/latex.pdf) - Lenimar Nunes de Andrade (PDF)
 * [Introdução ao LaTeX 2 - Ou LaTeX 2 em 105 minutos](http://ctan.org/pkg/lshort-portuguese-br)
+* [Latexação](https://www.ime.usp.br/~tassio/arquivo/latex/apostila.pdf) - Tássio Naia dos Santos (PDF)
 
 
 ### LISP
@@ -229,6 +268,11 @@
 * [PHPUnit](https://phpunit.de/manual/current/pt_br/index.html) (PDF, EPUB, MOBI)
 
 
+#### Symfony
+
+* [Symfony 5: A Trilha Rápida](https://symfony.com/doc/5.0/the-fast-track/pt_BR/index.html)
+
+
 ### Python
 
 * [Aprenda computação com Python](https://aprendendo-computacao-com-python.readthedocs.org/en/latest/index.html)
@@ -238,6 +282,7 @@
 * [Introdução a Visão Computacional com Python e OpenCV](http://professor.luzerna.ifc.edu.br/ricardo-antonello/wp-content/uploads/sites/8/2017/02/Livro-Introdu%C3%A7%C3%A3o-a-Vis%C3%A3o-Computacional-com-Python-e-OpenCV-3.pdf) (PDF)
 * [O tutorial de Python](http://turing.com.br/pydoc/2.7/tutorial/)
 * [Pense em Python](https://penseallen.github.io/PensePython2e)
+* [Python Funcional](https://dunossauro.github.io/python-funcional/) - Eduardo Mendes
 * [Python Orientado a Objetos](https://docs.google.com/viewer?a=v&pid=sites&srcid=ZGVmYXVsdGRvbWFpbnxyYWZhZWx1ZnR8Z3g6NTJlM2UzYzY1ZTgzMDEwMw) (PDF)
 * [Python para Desenvolvedores](https://ark4n.files.wordpress.com/2010/01/python_para_desenvolvedores_2ed.pdf) (PDF)
 * [Tutorial Django Girls](http://tutorial.djangogirls.org/pt/)
@@ -276,3 +321,4 @@
 * [Vim Básico](http://aurelio.net/vim/vim-basico.txt) - Aurelio Marinho Jargas
 * [Vim Médio](http://aurelio.net/vim/vim-medio.txt) - Aurelio Marinho Jargas
 * [Vim para Noobs](http://woliveiras.com.br/vimparanoobs/) - William Oliveira Souza
+

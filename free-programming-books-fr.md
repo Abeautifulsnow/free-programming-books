@@ -17,7 +17,7 @@
 * [Git](#git)
 * [Haskell](#haskell)
 * [Java](#java)
-* [Javascript](#javascript)
+* [JavaScript](#javascript)
 * [jQuery](#jquery)
 * [(La)TeX et associés](#latex-et-associés)
   * [Asymptote](#asymptote)
@@ -30,11 +30,13 @@
 * [Meteor](#meteor)
 * [Perl](#perl)
 * [PHP](#php)
+  * [Symfony](#symfony)
 * [Processing](#processing)
 * [Python](#python)
   * [Django](#django)
 * [R](#r)
 * [Ruby](#ruby)
+* [Rust](#rust)
 * [Sage](#sage)
 * [Scilab](#scilab)
 * [Scratch](#scratch)
@@ -63,7 +65,7 @@
 
 #### Logiciels libres
 
-* [Histoires et cultures du libres](http://framabook.org/histoiresetculturesdulibre/)
+* [Histoires et cultures du Libre](http://framabook.org/histoiresetculturesdulibre/)
 * [Option libre. Du bon usage des licences libres](http://framabook.org/optionlibre-dubonusagedeslicenceslibres/) - Jean Benjamin
 * [Produire du logiciel libre](http://framabook.org/produire-du-logiciel-libre-2/) - Karl Fogel
 * [Richard Stallman et la révolution du logiciel libre](http://framabook.org/richard-stallman-et-la-revolution-du-logiciel-libre-2/) - R.M. Stallman, S. Williams et C. Masutti
@@ -104,7 +106,6 @@
 
 ### C / C++
 
-* [C++ moderne](http://guillaume.belz.free.fr/doku.php?id=programmez_avec_le_langage_c) - Guillaume Belz
 * [Cours de C/C++](http://casteyde.christian.free.fr/cpp/cours/online/book1.html) - Christian Casteyde
 * [Le C en 20 heures](http://framabook.org/le-c-en-20-heures-2/) - Eric Berthomier et Daniel Schang
 * [Le langage C](https://zestedesavoir.com/tutoriels/755/le-langage-c-1/) - Informaticienzero, Taure, Paraze et Lucas-84
@@ -133,9 +134,10 @@
 * [Play.Rules!](http://3monkeys.github.io/play.rules/)
 
 
-### Javascript
+### JavaScript
 
-* [Javascript Éloquent : Une introduction moderne à la programmation](http://fr.eloquentjavascript.net) - Marijn Haverbeke
+* [JavaScript Éloquent : Une introduction moderne à la programmation](http://fr.eloquentjavascript.net) - Marijn Haverbeke
+* [Node.Js: Apprendre par la pratique](https://oncletom.io/node.js/#chapitres) - Thomas Parisot 
 
 
 ### jQuery
@@ -153,6 +155,7 @@
 
 #### LaTeX
 
+* [Apprends LaTeX](https://tex.loria.fr/general/apprends-latex.pdf) - Marc Baudoin (PDF)
 * [LaTeX... pour le prof de maths !](http://math.univ-lyon1.fr/irem/IMG/pdf/LatexPourLeProfDeMaths.pdf) - Arnaud Gazagnes (PDF)
 * [Tout ce que vous avez toujours voulu savoir sur LaTeX sans jamais oser le demander](http://framabook.org/tout-sur-latex/) - Vincent Lozano
 * [(Xe)LaTeX appliqué aux sciences humaines](http://geekographie.maieul.net/95) - Maïeul Rouquette
@@ -211,8 +214,12 @@
 ### PHP
 
 * [Cours de PHP 5](http://g-rossolini.developpez.com/tutoriels/php/cours/?page=introduction) - Guillaume Rossolini
-* [Initiation au PHP](http://framasoft.net/IMG/pdf/initiation_php.pdf) - David Ducrocq (PDF)
 * [Programmer en PHP](http://www.lincoste.com/ebooks/pdf/informatique/programmer_php.pdf) - Julien Gaulmin (PDF)
+
+
+#### Symfony
+
+* [En route pour Symfony 5](https://symfony.com/doc/5.0/the-fast-track/fr/index.html)
 
 
 ### Processing
@@ -246,6 +253,12 @@
 #### Ruby on Rails
 
 * [Tutoriel Ruby on Rails : Apprendre Rails par l'exemple](http://french.railstutorial.org/chapters/beginning) - Michael Hartl
+
+
+### Rust
+
+* [Traduction du Rust book en français](https://jimskapt.github.io/rust-book-fr/) par Thomas Ramirez
+* [Tutoriel rust](https://blog.guillaume-gomez.fr/Rust/) par Guillaume Gomez
 
 
 ### Sage

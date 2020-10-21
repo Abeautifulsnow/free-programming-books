@@ -4,6 +4,7 @@
 * [Angular](#angular)
 * [Databases](#databases)
 * [DataScience](#datascience)
+* [Game development](#game-development)
 * [HTML / CSS](#html--css)
 * [iOS](#ios)
 * [Java](#java)
@@ -26,13 +27,21 @@
 
 ### Databases
 
+* [Bóson Treinamentos - Curso de Modelagem de Dados](https://www.youtube.com/playlist?list=PLucm8g_ezqNoNHU8tjVeHmRGBFnjDIlxD) (screencast)
 * [Curso em Vídeo - Banco de Dados MySQL](https://www.youtube.com/playlist?list=PLHz_AreHm4dkBs-795Dsgvau_ekxg8g1r) (screencast)
 * [DatabaseCast](http://databasecast.com.br) (podcast)
 
 
 ### DataScience
 
+* [Data Science Academy](http://datascienceacademy.com.br/blog/podcast-dsa/) (podcast)
 * [Pizza de Dados](https://pizzadedados.com) (podcast)
+* [Programação Dinâmica - Machine Learning em Python](https://www.youtube.com/playlist?list=PL5TJqBvpXQv5CBxLkdqmou_86syFK7U3Q) (screencast)
+
+
+### Game development
+
+* [Podquest](http://www.podquest.com.br) (podcast)
 
 
 ### HTML / CSS
@@ -66,6 +75,7 @@
  * [NerdTech (Jovem Nerd)](https://jovemnerd.com.br/playlist/nerdtech) (podcast)
  * [PODebug](http://www.podebug.com) (podcast)
  * [PodProgramar](https://mundopodcast.com.br/podprogramar) (podcast)
+ * [podTag](https://podtag.com.br) (podcast)
  * [Screencast DevMedia - Lazy Load](https://www.youtube.com/playlist?list=PLi75dzoFwEbo89TG5IaD4ODYPeJK9uxA5) (screencast)
  * [Screencasts - Andre Baltieri](https://www.youtube.com/playlist?list=PLTMuY7ptzFISwigIWpZQtp6b0TuEEvqLC) (screencast)
 
@@ -74,6 +84,7 @@
 
 * [Curso em Vídeo - PHP Iniciante](https://www.youtube.com/watch?v=F7KzJ7e6EAc&list=PLHz_AreHm4dm4beCCCmW4xwpmLf6EHY9k) (screencast)
 * [Curso em Vídeo - PHP Orientado a Objetos](https://www.youtube.com/watch?v=KlIL63MeyMY&list=PLHz_AreHm4dmGuLII3tsvryMMD7VgcT7x) (screencast)
+* [UpInside - PHP Tips](https://www.youtube.com/playlist?list=PLi_gvjv-JgXqsmCAOrueT1-4JrnMW8_Gg) (screencast)
 
 
 ### Python
@@ -81,6 +92,7 @@
 * [Curso em Vídeo - Python Mundo 1](https://www.youtube.com/watch?v=S9uPNppGsGo&list=PLHz_AreHm4dlKP6QQCekuIPky1CiwmdI6) (screencast)
 * [Curso em Vídeo - Python Mundo 2](https://www.youtube.com/watch?v=nJkVHusJp6E&list=PLHz_AreHm4dk_nZHmxxf_J0WRAqy5Czye) (screencast)
 * [Curso em Vídeo - Python Mundo 3](https://www.youtube.com/watch?v=0LB3FSfjvao&list=PLHz_AreHm4dksnH2jVTIVNviIMBVYyFnH) (screencast)
+* [Programação Dinâmica - Introdução à Python por Projetos](https://www.youtube.com/playlist?list=PL5TJqBvpXQv6AEfVymby32MinHdxZA-8J) (screencast)
 
 
 ### TypeScript
@@ -91,5 +103,3 @@
 #### Vue.js
 
 * [Série de vídeos sobre Vue.js](https://vimeo.com/channels/1115590/videos/) - Origem: Vedovelli  (screencast)
-
-

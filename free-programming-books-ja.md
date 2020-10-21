@@ -55,6 +55,7 @@
 * [openFrameworks](#openframeworks)
 * [Perl](#perl)
 * [PHP](#php)
+  * [Symfony](#symfony)
 * [PowerShell](#powershell)
 * [Processing](#processing)
 * [Prolog](#prolog)
@@ -72,6 +73,7 @@
 * [Standard ML](#standard-ml)
 * [Swift](#swift)
 * [Tcl/Tk](#tcltk)
+* [Theoretical Computer Science](#theoretical-computer-science)
 * [TypeScript](#typescript)
 * [VBA](#vba)
 * [Vim](#vim)
@@ -98,7 +100,6 @@
 #### グラフィックユーザーインターフェイス
 
 * [Qtプログラミング入門](http://densan-labs.net/tech/qt/) - @nishio_dens
-* [入門GTK+ 第3版](http://www.iim.cs.tut.ac.jp/~sugaya/wiki/wiki/index.php?GTK%2FGNOME%A4%CB%A4%E8%A4%EBGUI%A5%D7%A5%ED%A5%B0%A5%E9%A5%DF%A5%F3%A5%B0) - 菅谷保之
 
 
 #### セキュリティ
@@ -128,7 +129,6 @@
 #### ソフトウェアアーキテクチャ
 
 * [ギコ猫とデザインパターン](http://www.hyuki.com/dp/cat_index.html) - 結城浩
-* [サルでもわかる 逆引きデザインパターン](http://www.nulab.co.jp/designPatterns/designPatterns1/designPatterns1-1.html) - Agata Toshitaka
 * [デザインパターン](http://www.techscore.com/tech/DesignPattern/) - シナジーマーケティング株式会社
 
 
@@ -156,7 +156,6 @@
 
 #### プログラミングの理論
 
-* [Programming on SAT](https://ledyba.gitbooks.io/programming-on-sat/) - ψ（プサイ）
 * [計算機プログラムの構造と解釈](http://sicp.iijlab.net/fulltext/) - Gerald Jay Sussman et al.
 
 
@@ -204,7 +203,6 @@
 
 * [Applescript のごく基本的なサンプル](http://www.asahi-net.or.jp/~va5n-okmt/factory/applescript/sample_code/) - Okamoto
 * [AppleScript 言語ガイド(改訂版)](https://sites.google.com/site/zzaatrans/home/applescriptlangguide)
-* [Bash でやってることを AppleScript でやろうとするとこうなる](http://qiita.com/mattintosh4/items/353c57ba75eda20af3c4) - id:mattintosh4
 
 
 ### AWK
@@ -231,6 +229,7 @@
 * [お気楽Ｃ言語プログラミング超入門](http://www.nct9.ne.jp/m_hiroi/linux/clang.html) - 広井誠
 * [ゲーム作りで学ぶ！実践的C言語プログラミング](http://densan-labs.net/tech/game/) - @nishio_dens
 * [猫でもわかるプログラミング](http://kumei.ne.jp/c_lang/) - 粂井康孝
+* [苦しんで覚えるＣ言語](https://9cguide.appspot.com) - MMGames/森口将憲
 * [計算物理のためのC/C++言語入門](http://cms.phys.s.u-tokyo.ac.jp/~naoki/CIPINTRO/) - 渡辺尚貴
 
 
@@ -369,6 +368,7 @@
 * [Google JavaScript スタイルガイド](https://w.atwiki.jp/aias-jsstyleguide2/) - Aaron Whyte, Bob Jervis, Dan Pupius, Erik Arvidsson, Fritz Schneider, Robby Walker, aiaswood(翻訳)
 * [JavaScript Garden](http://bonsaiden.github.io/JavaScript-Garden/ja/) - Ivo Wetzel, HIRAKI Satoru(翻訳)
 * [JavaScript Plugin Architecture](https://azu.gitbooks.io/javascript-plugin-architecture/content/) - azu
+* [JavaScript Primer](https://jsprimer.net) - azu, Suguru Inatomi
 * [JavaScript Promiseの本](https://azu.github.io/promises-book/) - azu
 * [JavaScript style guide](https://developer.mozilla.org/ja/docs/JavaScript_style_guide) - MDN
 * [JavaScript 基礎文法最速マスター](http://gifnksm.hatenablog.jp/entry/20100131/1264934942) - id:gifnksm
@@ -500,6 +500,11 @@
 * [PSR-2 – コーディングスタイルガイド](https://github.com/maosanhioro/fig-standards/blob/master/translation/PSR-2-coding-style-guide.md) - maosanhioro
 
 
+#### Symfony
+
+* [Symfony 5: ファストトラック](https://symfony.com/doc/5.0/the-fast-track/ja/index.html)
+
+
 ### PowerShell
 
 * [PowerShell スクリプト](https://docs.microsoft.com/ja-jp/powershell/scripting/overview?view=powershell-6) - Microsoft Docs
@@ -539,6 +544,7 @@
 * [The Programming Historian](https://sites.google.com/site/theprogramminghistorianja/) - William J. Turkel, Alan MacEachern, @moroshigeki(翻訳), @historyanddigi(翻訳), @Say\_no(翻訳), @knagasaki(翻訳), @mak\_goto(翻訳)
 * [Think Python：コンピュータサイエンティストのように考えてみよう](http://www.cauldron.sakura.ne.jp/thinkpython/thinkpython/ThinkPython.pdf) - Allen Downey, 相川 利樹（翻訳）(PDF)
 * [お気楽 Python プログラミング入門](http://www.nct9.ne.jp/m_hiroi/light/) - 広井誠
+* [プログラミング演習 Python 2019](http://hdl.handle.net/2433/245698) - 喜多一 (PDF)
 * [みんなのPython Webアプリ編](https://coreblog.org/ats/stuff/minpy_web/) - 柴田淳
 * [機械学習の Python との出会い (Machine Learning Meets Python)](http://www.kamishima.net/mlmpyja/) - 神嶌敏弘 [PDF](http://www.kamishima.net/archive/mlmpyja.pdf), [EPUB](http://www.kamishima.net/archive/mlmpyja.epub)
 
@@ -638,6 +644,11 @@
 
 * [Tcl/Tk お気楽 GUI プログラミング](http://www.nct9.ne.jp/m_hiroi/tcl_tk.html) - 広井誠
 * [Tcl/Tk入門](http://aoba.cc.saga-u.ac.jp/lecture/TclTk/text.pdf) - 只木進一 (PDF)
+
+
+### Theoretical Computer Science
+
+* [計算機プログラムの構造と解釈 第二版](https://sicp.iijlab.net/fulltext/xcont.html) - Alan J. Perlis 
 
 
 ### TypeScript

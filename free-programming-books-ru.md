@@ -49,6 +49,7 @@
   * [CakePHP](#cakephp)
   * [CodeIgniter](#codeigniter)
   * [Laravel](#laravel)
+  * [Symfony](#symfony)
 * [Python](#python)
   * [Django](#django)
 * [R](#r)
@@ -63,6 +64,7 @@
 * [Smalltalk](#smalltalk)
 * [SQL](#sql)
   * [PostgreSQL](#postgresql)
+* [Swift](#swift)
 * [TypeScript](#typescript)
 * [Unix](#unix)
 * [Vim](#vim)
@@ -77,7 +79,7 @@
 * [Занимательное программирование. Самоучитель](http://padabum.com/x.php?id=35055) - Мозговой М.В. (PDF)
 * [Операционные системы](https://vseloved.github.io/pdf/os-ru.pdf) - Всеволод Дёмкин (PDF)
 * [Параллельные технологии](http://www.inp.nsk.su/~baldin/Parallel/index.html)
-* [Программирование: введение в профессию](http://stolyarov.info/books/programming_intro) - Столяров Андрей Викторович (:construction:) (PDF)
+* [Программирование: введение в профессию](http://stolyarov.info/books/programming_intro) - Столяров Андрей Викторович (:construction: *в процессе написания*) (PDF)
 * [Руководство по HTTP](http://proselyte.net/tutorials/http-tutorial) - Евгений Сулейманов
 * [Руководство по SOAP](http://proselyte.net/tutorials/soap-tutorial) - Евгений Сулейманов
 * [Структура и интерпретация компьютерных программ](http://newstar.rinet.ru/~goga/sicp/sicp-ru-screen.pdf) - Гарольд Абельсон, Джералд Джей Сассман (PDF)
@@ -88,6 +90,7 @@
 #### Работа с сетью
 
 * [IPv6 для знатоков IPv4](https://sites.google.com/site/yartikhiy/home/ipv6book) - Ярослав Тихий (PDF, HTML, EPUB)
+* [Наука о Сетях](http://networksciencebook.com) - Альберто Лазло-Барабаси
 * [Разъяснение HTTP2](https://github.com/vlet/http2-explained/blob/master/http2.ru.pdf?raw=true) - Даниэль Штенберг (PDF)
 
 
@@ -143,6 +146,7 @@
 
 ### C Sharp
 
+* [Design Patterns via C#](http://itvdn.com/ru/patterns) - Александр Шевчук, Дмитрий Охрименко, Андрей Касьянов (PDF) *(Требуется аккаунт)*
 * [Паттерны проектирования в C# и .NET](https://metanit.com/sharp/patterns) - Евгений Попов
 * [Полное руководство по языку программирования С# 7.0 и платформе .NET 4.7](https://metanit.com/sharp/tutorial) - Евгений Попов
 * [Сетевое программирование в С# и .NET](https://metanit.com/sharp/net) - Евгений Попов
@@ -298,6 +302,7 @@
 
 * [Онлайн-руководство по AngularJS](https://metanit.com/web/angular) - Евгений Попов
 * [Перевод документации](http://angular-doc.herokuapp.com)
+* [Русская версия документация Angular 10](https://angular24.ru/start) - Алексей Охрименко
 
 
 #### jQuery
@@ -320,9 +325,11 @@
 
 #### React
 
+* [Перевод документации](https://learn-reactjs.ru/home)
 * [Путь к изучению React](https://leanpub.com/the-road-to-learn-react-russian) - Алексей Пыльцын (PDF, ePub, MOBI) *(Требуется аккаунт на Leanpub или действительный адрес электронной почты)*
 * [Руководство по React](https://metanit.com/web/react) - Евгений Попов
 * [Уроки по React](https://codedzen.ru/category/uroki/react)
+* [Учебник по фреймворку React](http://old.code.mu/books/advanced/javascript/react/) 
 
 
 #### Vue.js
@@ -410,6 +417,11 @@
 * [Перевод документации](http://laravel.su/docs)
 
 
+#### Symfony
+
+* [Symfony 5. Быстрый старт](https://symfony.com/doc/5.0/the-fast-track/ru/index.html)
+
+
 ### Python
 
 * [Problem Solving with Algorithms and Data Structures](https://aliev.github.io/runestone)
@@ -428,7 +440,7 @@
 
 #### Django
 
-* [Руководство Django Girls](https://tutorial.djangogirls.org/ru) (1.11) (HTML) (:construction: *in process*)
+* [Руководство Django Girls](https://tutorial.djangogirls.org/ru) (1.11) (HTML) (:construction: *в процессе написания*)
 * [Руководство по веб-фреймворку Django](https://metanit.com/python/django) - Евгений Попов
 
 
@@ -508,6 +520,12 @@
 * [Документация](https://postgrespro.ru/docs/postgresql) (PDF)
 * [История о PostgreSQL](http://www.inp.nsk.su/~baldin/PostgreSQL/index.html) - Linux Format
 * [Работа с PostgreSQL - настройка и масштабирование](http://postgresql.leopard.in.ua) - А. Ю. Васильев
+
+
+### Swift
+
+* [Documentation](https://swift.org/documentation)
+* [Документация и туториалы](https://swiftbook.ru)
 
 
 ### TypeScript

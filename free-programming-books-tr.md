@@ -1,7 +1,6 @@
 ### Index
 
 * [Android](#android)
-* [AspectJ](#aspectj)
 * [C](#c)
 * [CSS](#css)
 * [D](#d)
@@ -29,25 +28,20 @@
 * [Android Geleceği Yazanlar](https://gelecegiyazanlar.turkcell.com.tr/konu/android)
 
 
-### AspectJ
-
-* [AspectJ Kitabı](http://kodcu.com/aspectj-ebook/)
-
-
 ### C
 
-* [C Programlama Diline Giriş](http://www1.gantep.edu.tr/~bingul/c/index.php)
-* [Programlamaya Giriş Ders Notları, H. Turgut Uyar](http://web.itu.edu.tr/uyar/programlama/)
+* [C Programlama Diline Giriş](http://www1.gantep.edu.tr/~bingul/c/index.php) - [Ahmet Bingül](http://www1.gantep.edu.tr/~bingul)
+* [Programlamaya Giriş Ders Notları](http://web.itu.edu.tr/uyar/programlama) - [H.Turgut Uyar](http://web.itu.edu.tr/uyar)
 
 
 ### CSS
 
-* [CSS Dersleri](http://fatihhayrioglu.com/css-dersleri/)
+* [CSS Dersleri](http://fatihhayrioglu.com/css-dersleri/) - Fatih Hayrioğlu
 
 
 ### D
 
-* [D Programlama Dili](http://ddili.org/ders/d/D_Programlama_Dili.pdf) (PDF)
+* [D Programlama Dili](http://ddili.org/ders/d/D_Programlama_Dili.pdf) - Ali Çehreli (PDF)
 
 
 ### Dart
@@ -57,18 +51,18 @@
 
 ### Fortran
 
-* [Fortran Programlama Dili](http://www1.gantep.edu.tr/~bingul/f95/index.php)
+* [Fortran Programlama Dili](http://www1.gantep.edu.tr/~bingul/f95/index.php) - [Ahmet Bingül](http://www1.gantep.edu.tr/~bingul)
 
 
 ### Git
 
-* [git - basit rehber](http://rogerdudler.github.io/git-guide/index.tr.html)
-* [Git 101](https://www.gitbook.com/book/aliozgur/git101/details) by [Ali Özgür](https://github.com/aliozgur)
+* [git - basit rehber](http://rogerdudler.github.io/git-guide/index.tr.html) - Roger Dudler
+* [Git 101](https://www.gitbook.com/book/aliozgur/git101/details) - [Ali Özgür](https://github.com/aliozgur)
 
 
 ### Go
 
-* [Go Turu](https://go-tour-turkish.appspot.com/welcome/1)
+* [Go El Kitabı](https://github.com/umutphp/the-little-go-book) - Karl Seguin, Umut Işık tarafından çevirildi
 
 
 ### Html
@@ -101,7 +95,7 @@
 
 ### Matlab
 
-* [Matlab Programlamaya Giris](http://ismailari.com/blog/matlab-programlamaya-giris/)
+* [Matlab Programlamaya Giris](http://ismailari.com/blog/matlab-programlamaya-giris) - İsmail Arı
 
 
 ### .NET Framework
@@ -117,29 +111,29 @@
 ### Python
 
 * [Bilgisayar Bilimcisi Gibi Düşünmek-Python3 ile Öğrenme](http://ofenerci.github.io/thinkcspy-tr) - Peter Wentworth, Jeffrey Elkner, Allen B. Downey ve Chris Meyers
-* [Python ile Programlama](https://belgeler.yazbel.com/python-istihza/)
+* [Python ile Programlama](https://belgeler.yazbel.com/python-istihza)
 
 
 ### Django
 
-* [Django Girls Eğitimi](https://tutorial.djangogirls.org/tr/) (1.11) (HTML) (:construction: *in process*)
+* [Django Girls Eğitimi](https://tutorial.djangogirls.org/tr) (1.11) (HTML) (:construction: *in process*)
 
 
 ### R
 
-* [Ekonometriye Yeni Başlayanlar için Kısa bir R Kılavuzu](https://github.com/emraher/eybkbrk)
+* [Ekonometriye Yeni Başlayanlar için Kısa bir R Kılavuzu](https://github.com/emraher/eybkbrk) - Emrah Er
 
 
 ### Ruby
 
-* [AB2014 Ruby Programlama Dili](https://github.com/leylaKapi/AB2014-Ruby-Programlama-Dili/blob/master/Ruby_AB2014.md)
-* [Ruby](https://www.ruby-lang.org/tr/)
+* [AB2014 Ruby Programlama Dili](https://github.com/leylaKapi/AB2014-Ruby-Programlama-Dili/blob/master/Ruby_AB2014.md) - [Leyla Kapı](http://www.leylakapi.com)
+* [Ruby](https://www.ruby-lang.org/tr)
 * [Ruby 101](https://www.gitbook.com/book/vigo/ruby-101/details)
-* [Ruby Kullanıcı Kılavuzu](http://www.belgeler.org/uygulamalar/ruby/ruby-ug.html)
-* [Yirmi Dakikada Ruby](https://www.ruby-lang.org/tr/documentation/quickstart/)
+* [Ruby Kullanıcı Kılavuzu](http://www.belgeler.org/uygulamalar/ruby/ruby-ug.html) - Mark Slagell
+* [Yirmi Dakikada Ruby](https://www.ruby-lang.org/tr/documentation/quickstart)
 
 
 ### Rust
 
-* [Rust'a Giriş](http://bit.ly/rustagiris)
+* [Rust'a Giriş](http://bit.ly/rustagiris) - Mahmut Bulut
 
